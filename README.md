@@ -1,5 +1,4 @@
-# BoB Agent
-
+# Bill moko 
 > A native application built with NativeScript-Vue
 
 ## Usage
