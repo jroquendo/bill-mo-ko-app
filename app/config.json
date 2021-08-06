@@ -1,0 +1,5 @@
+{   
+    "public": {
+        "apiBaseURL": "http://184.168.124.77:8000/falcon/billmoko"
+    }
+}
